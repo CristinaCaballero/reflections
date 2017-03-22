@@ -16,3 +16,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 	Branches would be helpful to experiment with new features or maybe work on
 	another version of your program.
+
+How do the diagrams help you visualize the branch structure?
+
+	It's very helpful, because it shows a tree diagram with the different branches.
