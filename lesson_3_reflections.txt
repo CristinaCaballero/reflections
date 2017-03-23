@@ -3,3 +3,9 @@ local?
 
     When I want to collaborate with more people or maybe when I don't have enough
     space.
+
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    Because it could cause a conflict with my local work.
