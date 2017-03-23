@@ -25,3 +25,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	The result is that all the commits are now part of the checked-out branch.
 	These commits are sorted by timestamp.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	With automatic merging, you just have to type the command and it's done, while with
+	manual merging, you can choose which parts of the code to keep and which ones to
+	delete.
