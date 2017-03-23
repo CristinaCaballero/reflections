@@ -4,8 +4,15 @@ local?
     When I want to collaborate with more people or maybe when I don't have enough
     space.
 
-
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
     Because it could cause a conflict with my local work.
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    Forks are used to clone a repository from someone's GitHub account to yours.
+    Clones are used to copy a repository from GitHub to your local directory, or
+    between two local directories.
+    Branches are used to change the project without changing the original files.
