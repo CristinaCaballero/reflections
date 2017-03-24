@@ -21,3 +21,11 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     It's important because then you can work offline.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    Maybe I would try to use Dropbox, but it would be very conflictive.
+    Other option is to divide the project in different parts, so that each person
+    would make changes just in ther module, then we would reunite all the files,
+    but of course it's not the best option.
