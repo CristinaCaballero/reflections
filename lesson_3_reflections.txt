@@ -29,3 +29,9 @@ and what would be harder?
     Other option is to divide the project in different parts, so that each person
     would make changes just in ther module, then we would reunite all the files,
     but of course it's not the best option.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    I would make changes in a separate branch if I want to experiment with some
+    new features or anything else that could break the main branch.
